@@ -36,4 +36,10 @@ This is the detailed of the ec2 instance I used.
 
 1. **Update Packages**:
    ```bash
-   sudo apt update && sudo apt upgrade -y
+   sudo apt update && sudo apt upgrade -y```
+
+2. **Install Nginx**:
+   ```bash
+   sudo apt-get install nginx
+   sudo systemctl status nginx``` 
+
