@@ -12,11 +12,11 @@ This guide will walk you through the steps I followed to deploy a static website
 
 ### 1. EC2 Instance Created
 
-![alt text](images/ec2-info.png)
+   - ![alt text](images/ec2-info.png)
 
 This is the detailed of the ec2 instance I used.
 
-![alt text](images/sg-info.png)
+   - ![alt text](images/sg-info.png)
 
    I configured the security group with the following rules:
 
