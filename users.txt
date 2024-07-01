@@ -1,0 +1,3 @@
+brian; sudo, dev, www-data
+oba; sudo
+jeddy; dev, www-data
